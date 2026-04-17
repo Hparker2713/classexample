@@ -1,0 +1,20 @@
+Class Git Notes
+===============
+
+Edit this file to practice making commits!
+
+Key commands:
+  git status           - see what changed
+  git add <file>       - stage a file
+  git commit -m "..."  - save a snapshot
+  git push             - upload to GitHub
+  git pull             - download latest changes
+
+Try it:
+  1. Add your name below
+  2. Run: git add notes.txt
+  3. Run: git commit -m "Add my name"
+  4. Run: git push
+
+--- Add your name here ---
+
