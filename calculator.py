@@ -13,12 +13,7 @@ def divide(a, b):
     # TODO fix later
     return a / b
 
-def factorial(a):
-    if a < 0:
-        return "Error: factorial not defined for negative numbers"
-    return math.factorial(int(a))
-
-print("*** Calculator App ***")
+print("*** Calculator App hayden style***")
 print("4 + 3 =", add(4, 3))
 print("10 - 5 =", subtract(10, 5))
 print("6 * 7 =", multiply(6, 7))
