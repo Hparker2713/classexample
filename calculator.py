@@ -12,8 +12,12 @@ def divide(a, b):
         return "Error: cannot divide by zero"
     return a / b
 
+def power(a, b):
+    return a ** b
+
 print("*** Calculator App ***")
 print("4 + 3 =", add(4, 3))
 print("10 - 5 =", subtract(10, 5))
 print("6 * 7 =", multiply(6, 7))
 print("20 / 4 =", divide(20, 4))
+print("2 ^ 8 =", power(2, 8))
