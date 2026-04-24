@@ -10,8 +10,7 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
-    if b == 0:
-        return "Error: cannot divide by zero"
+    # TODO fix later
     return a / b
 
 def factorial(a):
