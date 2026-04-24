@@ -15,7 +15,7 @@ def divide(a, b):
 def power(a, b):
     return a ** b
 
-print("*** Calculator App ***")
+print("*** Calculator App hayden style***")
 print("4 + 3 =", add(4, 3))
 print("10 - 5 =", subtract(10, 5))
 print("6 * 7 =", multiply(6, 7))
