@@ -10,7 +10,7 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
-    # TODO fix later
+    assert b != 0, "Jeff says: you cannot divide by zero!!"
     return a / b
 
 print("*** Calculator App hayden style***")
