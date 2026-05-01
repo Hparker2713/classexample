@@ -13,6 +13,11 @@ def divide(a, b):
     # TODO fix later
     return a / b
 
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    return n * factorial(n - 1)
+
 print("*** Calculator App hayden style***")
 print("4 + 3 =", add(4, 3))
 print("10 - 5 =", subtract(10, 5))
