@@ -18,3 +18,6 @@ Try it:
 
 --- Add your name here ---
 
+Bob
+- I fixed divide by returning None when b is 0
+- simpler than throwing errors in my opinion
