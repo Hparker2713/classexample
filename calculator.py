@@ -18,7 +18,7 @@ def factorial(n):
         return 1
     return n * factorial(n - 1)
 
-print("*** Calculator App hayden style***")
+print("*** Team A's Calculator App ***")
 print("4 + 3 =", add(4, 3))
 print("10 - 5 =", subtract(10, 5))
 print("6 * 7 =", multiply(6, 7))
